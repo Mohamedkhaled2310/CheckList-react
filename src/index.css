@@ -11,3 +11,30 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.scrollbar-custom {
+  scrollbar-width: thin; /* For Firefox */
+  scrollbar-color: #888 #e0e0e0; /* For Firefox */
+}
+
+.scrollbar-custom::-webkit-scrollbar {
+  width: 8px; /* Width of the scrollbar */
+}
+
+.scrollbar-custom::-webkit-scrollbar-track {
+  background: #e0e0e0; /* Track color */
+}
+
+.scrollbar-custom::-webkit-scrollbar-thumb {
+  background: #888; /* Handle color */
+  border-radius: 10px; /* Rounded corners for the scrollbar handle */
+}
+
+.scrollbar-custom::-webkit-scrollbar-thumb:hover {
+  background: #555; /* Handle color on hover */
+}
+
+.line-through {
+  text-decoration: line-through;
+}
+
+
