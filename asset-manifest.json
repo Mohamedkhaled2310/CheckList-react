@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CheckList-react/static/css/main.90e3b5fc.css",
+    "main.js": "/CheckList-react/static/js/main.88d19ef5.js",
+    "index.html": "/CheckList-react/index.html",
+    "main.90e3b5fc.css.map": "/CheckList-react/static/css/main.90e3b5fc.css.map",
+    "main.88d19ef5.js.map": "/CheckList-react/static/js/main.88d19ef5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.90e3b5fc.css",
+    "static/js/main.88d19ef5.js"
+  ]
+}
